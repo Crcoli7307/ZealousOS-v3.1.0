@@ -1,0 +1,8 @@
+{
+  "version": "3.1.0",
+  "build_type": "beta",
+  "license": "MIT",
+  "author": "ZealousOS Team",
+  "host": "https://repl.it",
+  "date": "6.3.2020"
+}

@@ -1,0 +1,23 @@
+-- This is a comment.
+
+system.Write("Maybe this is a print statement?")
+
+system.Write("hold up, zealousOS support MULTIPLE print statements???")
+
+system.Clear() -- Perhaps this will clear the screen?
+
+system.Write("Screen cleared!")
+
+-- system.Input("Name: ") -- and maybe this will take input idk
+
+-- Int(system.Input("Choose a Number:")) -- Make this a number?
+
+-- var variablename = variabledata --To make a variable?
+
+-- system.Import("Service Name") --Have this import a package/service?
+
+-- system.Run("File/Package Name") -- To run a package or file?
+
+-- system.PCall("A Command that must run") -- To run a vital command and trigger something like UAC in windows.
+
+-- system.Exists("A File Name") -- To check if a file exists.
